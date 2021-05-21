@@ -2,7 +2,7 @@
 - 👀 I’m interested in Problem Solving and Web development
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on Web development
-- 
+
 
 <!---
 zaynmerrk/zaynmerrk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
